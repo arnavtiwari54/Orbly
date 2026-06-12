@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36171729550",
+    "project_id": "orbly-619bf",
+    "storage_bucket": "orbly-619bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36171729550:android:c0c6ce6c155052e4e357df",
+        "android_client_info": {
+          "package_name": "com.example.orbly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJdHb1YQ3Z58A_SuQ2mRD1L0DYFnELdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
