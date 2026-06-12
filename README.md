@@ -38,30 +38,30 @@ A social media mobile application inspired by Instagram, built with Flutter and 
 
 ## 📂 Project Structure
 
+```
 lib/
-├── main.dart                  # App entry point
-├── firebase_options.dart      # Firebase config (auto-generated)
-├── models/
-│   ├── user_model.dart        # User data structure
-│   └── post_model.dart        # Post data structure
-├── services/
-│   ├── auth_service.dart      # Login, signup, logout
-│   ├── post_service.dart      # Create & fetch posts
-│   └── storage_service.dart   # Image to Base64 conversion
-├── screens/
-│   ├── login_screen.dart      # Login page
-│   ├── signup_screen.dart     # Registration page
-│   ├── home_screen.dart       # Main screen with nav bar
-│   ├── feed_screen.dart       # All posts feed
-│   ├── create_post_screen.dart# Upload a new post
-│   └── profile_screen.dart    # User profile & posts grid
-├── widgets/
-│   ├── post_card.dart         # Single post component
-│   └── loading_button.dart    # Button with loading spinner
-└── utils/
-└── app_theme.dart         # Colors, fonts, theme
-
----
+ ├── main.dart                   # App entry point
+ ├── firebase_options.dart       # Firebase config (auto-generated)
+ ├── models/
+ │    ├── user_model.dart        # User data structure
+ │    └── post_model.dart        # Post data structure
+ ├── services/
+ │    ├── auth_service.dart      # Login, signup, logout
+ │    ├── post_service.dart      # Create & fetch posts
+ │    └── storage_service.dart   # Image to Base64 conversion
+ ├── screens/
+ │    ├── login_screen.dart      # Login page
+ │    ├── signup_screen.dart     # Registration page
+ │    ├── home_screen.dart       # Main screen with nav bar
+ │    ├── feed_screen.dart       # All posts feed
+ │    ├── create_post_screen.dart # Upload a new post
+ │    └── profile_screen.dart    # User profile & posts grid
+ ├── widgets/
+ │    ├── post_card.dart         # Single post component
+ │    └── loading_button.dart    # Button with loading spinner
+ └── utils/
+      └── app_theme.dart         # Colors, fonts, theme
+```
 
 ## 🚀 Getting Started
 
