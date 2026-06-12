@@ -74,7 +74,7 @@ lib/
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/orbly.git
+   git clone https://github.com/arnavtiwari54/orbly.git
    cd orbly
 ```
 
